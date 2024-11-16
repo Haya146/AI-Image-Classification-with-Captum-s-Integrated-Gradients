@@ -1,1 +1,3 @@
 # AI-Image-Classification-with-Captum-s-Integrated-Gradients
+
+This project leverages PyTorch and Captum to create an interactive image classification app with explainable AI. Users can upload images, which are classified using a pre-trained ResNet50 model. The app displays the top 5 predictions along with confidence scores and provides Integrated Gradients visualizations to explain the model's decision-making process. Built with Streamlit, the app offers a user-friendly interface and helps users understand how the model interprets and classifies images, increasing transparency and trust in AI decisions.
